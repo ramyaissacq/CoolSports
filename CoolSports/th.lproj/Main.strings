@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Loading...Please wait"; ObjectID = "GCH-cg-azO"; */
+"GCH-cg-azO.text" = "กำลังโหลด...โปรดรอสักครู่";
+
+/* Class = "UILabel"; text = " "; ObjectID = "J8D-uX-IN3"; */
+"J8D-uX-IN3.text" = " ";
+
+/* Class = "UISearchBar"; placeholder = "Search Here"; ObjectID = "W9j-M1-628"; */
+"W9j-M1-628.placeholder" = "ค้นหาที่นี่";
+
+/* Class = "UISearchBar"; placeholder = "Search Here"; ObjectID = "Wej-Ip-NE6"; */
+"Wej-Ip-NE6.placeholder" = "ค้นหาที่นี่";
+
+/* Class = "UILabel"; text = "Loading...Please wait"; ObjectID = "i9h-wB-3Tz"; */
+"i9h-wB-3Tz.text" = "กำลังโหลด...โปรดรอสักครู่";
+
+/* Class = "UILabel"; text = "Leagues"; ObjectID = "sl6-IF-e3E"; */
+"sl6-IF-e3E.text" = "ลีก";

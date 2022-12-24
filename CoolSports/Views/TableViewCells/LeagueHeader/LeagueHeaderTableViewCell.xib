@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="60" id="KGk-i7-Jjw" customClass="LeagueHeaderTableViewCell" customModule="CoolSports" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t5o-Lo-Shm">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="06B-R7-KEL">
+                                <rect key="frame" x="283" y="10" width="35" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="35" id="Yh9-UM-kAd"/>
+                                    <constraint firstAttribute="height" constant="35" id="eNT-fR-KNh"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="League Info" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UXn-MP-UUj">
+                                <rect key="frame" x="0.0" y="15" width="138" height="30.5"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="26"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="UXn-MP-UUj" firstAttribute="centerY" secondItem="t5o-Lo-Shm" secondAttribute="centerY" id="1gd-Hr-6HD"/>
+                            <constraint firstItem="06B-R7-KEL" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="UXn-MP-UUj" secondAttribute="trailing" constant="8" id="Ffc-2w-5TR"/>
+                            <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="06B-R7-KEL" secondAttribute="bottom" constant="10" id="GOM-5o-2l7"/>
+                            <constraint firstAttribute="trailing" secondItem="06B-R7-KEL" secondAttribute="trailing" constant="2" id="Y6S-e6-jFa"/>
+                            <constraint firstItem="UXn-MP-UUj" firstAttribute="leading" secondItem="t5o-Lo-Shm" secondAttribute="leading" id="q8R-IL-teY"/>
+                            <constraint firstItem="06B-R7-KEL" firstAttribute="top" secondItem="t5o-Lo-Shm" secondAttribute="top" constant="10" id="ygr-KQ-RGM"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="t5o-Lo-Shm" secondAttribute="trailing" id="6Y3-Cl-9T0"/>
+                    <constraint firstItem="t5o-Lo-Shm" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="7Ih-iy-72D"/>
+                    <constraint firstAttribute="bottom" secondItem="t5o-Lo-Shm" secondAttribute="bottom" id="bkV-dl-4F5"/>
+                    <constraint firstItem="t5o-Lo-Shm" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="r0K-6g-huG"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="fixedLeague" destination="UXn-MP-UUj" id="0Em-41-LMy"/>
+                <outlet property="imgPhoto" destination="06B-R7-KEL" id="AND-JN-PLP"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="103.79464285714285"/>
+        </tableViewCell>
+    </objects>
+</document>

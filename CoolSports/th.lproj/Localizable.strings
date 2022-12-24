@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"Cool Sports" = "Cool Sports";
+"Premier League" = "พรีเมียร์ลีก";
+"La Liga" = "ลาลีกา";
+"Serie A" = "กัลโช่เซเรียอา";
+"Bundesliga" = "บุนเดสลีกา";
+"Ligue 1" = "ลีกเอิง 1";
+"Chinese Super League" = "ไชนีส ซูเปอร์ลีก";
+"AFC Champions League" = "เอเอฟซีแชมเปียนส์ลีก";
+"Asian Qualifiers" = "รอบคัดเลือกเอเชีย";
+"South American Qualifier" = "รอบคัดเลือกอเมริกาใต้";
+"European Qualifier" = "รอบคัดเลือกยุโรป";
+"World Cup" = "ฟุตบอลโลก";
+"European Cup" = "ถ้วยยุโรป";
+"Confederations Cup" = "คอนเฟเดอเรชันส์ คัพ";
+"America's Cup" = "อเมริกาส์คัพ";
+"League Info" = "ข้อมูลลีก";
+"Team Standings" = "อันดับทีม";
+"Player Standings" = "อันดับผู้เล่น";
+"Full Name" = "ชื่อเต็ม";
+"Team Name" = "ชื่อทีม";
+"Player Name" = "ชื่อผู้เล่น";
+"Goals" = "เป้าหมาย";
+"Home" = "บ้าน";
+"Away" = "ห่างออกไป";
+"Rules" = "กฎ";
+"Team Info" = "ข้อมูลทีม";
+"Top Scorers" = "ผู้ทำประตูสูงสุด";
+"Most Value Player" = "ผู้เล่นที่มีค่าตัวมากที่สุด";
+"Player Info" = "ข้อมูลผู้เล่น";
+"Founding Date:" = "วันที่ก่อตั้ง:";
+"Area" = "พื้นที่";
+"Coach" = "โค้ช";
+"Capacity" = "ความจุ";
+"Website" = "เว็บไซต์";
+"Country" = "ประเทศ";
+"Birthday" = "วันเกิด";
+"Height" = "ส่วนสูง";
+"Weight" = "น้ำหนัก";
+"Position" = "ตำแหน่ง";
+"Number" = "ตัวเลข";
+"Contract Ending" = "การสิ้นสุดสัญญา";
+"Language" = "ภาษา";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Share App" = "แชร์แอพ";
+"Feedback" = "ข้อเสนอแนะ";
+"Rate Us" = "ให้คะแนนเรา";
+"Abbreviation :" = "อักษรย่อ :";
+"Type :" = "พิมพ์ :";
+"Current Sub-League :" = "ลีกย่อยปัจจุบัน :";
+"Total Rounds :" = "รอบทั้งหมด :";
+"Current Round :" = "รอบปัจจุบัน :";
+"Current Season :" = "ฤดูกาลปัจจุบัน :";
+"Country :" = "ประเทศ :";
+"Full Name :" = "ชื่อเต็ม :";
+"Settings" = "การตั้งค่า";

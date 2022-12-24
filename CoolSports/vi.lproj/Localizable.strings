@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"Cool Sports" = "Cool Sports";
+"Premier League" = "Premier League";
+"La Liga" = "La Liga";
+"Serie A" = "Serie A";
+"Bundesliga" = "Bundesliga";
+"Ligue 1" = "Ligue 1";
+"Chinese Super League" = "Super League Trung Quốc";
+"AFC Champions League" = "AFC Champions League";
+"Asian Qualifiers" = "Vòng loại Châu Á";
+"South American Qualifier" = "Vòng loại Nam Mỹ";
+"European Qualifier" = "Vòng loại Châu Âu";
+"World Cup" = "Cúp thế giới";
+"European Cup" = "Cúp châu Âu";
+"Confederations Cup" = "Cúp Liên đoàn các châu lục";
+"America's Cup" = "Cup của Mỹ";
+"League Info" = "thông tin giải đấu";
+"Team Standings" = "bảng xếp hạng đội";
+"Player Standings" = "Bảng xếp hạng người chơi";
+"Full Name" = "Họ và tên";
+"Team Name" = "Tên nhóm";
+"Player Name" = "Tên người chơi";
+"Goals" = "Bàn thắng";
+"Home" = "Trang Chủ";
+"Away" = "Xa";
+"Rules" = "Quy tắc";
+"Team Info" = "Thông tin đội";
+"Top Scorers" = "Người ghi bàn hàng đầu";
+"Most Value Player" = "Cầu thủ giá trị nhất";
+"Player Info" = "Thông tin người chơi";
+"Founding Date:" = "Ngày thành lập:";
+"Area" = "Diện tích";
+"Coach" = "Huấn luyện viên";
+"Capacity" = "Dung tích";
+"Website" = "Trang mạng";
+"Country" = "Quốc gia";
+"Birthday" = "Ngày sinh nhật";
+"Height" = "Chiều cao";
+"Weight" = "Cân nặng";
+"Position" = "Chức vụ";
+"Number" = "Con số";
+"Contract Ending" = "Kết thúc hợp đồng";
+"Language" = "Ngôn ngữ";
+"Privacy Policy" = "Chính sách bảo mật";
+"Share App" = "Chia sẻ ứng dụng";
+"Feedback" = "Phản hồi";
+"Rate Us" = "Đánh giá chúng tôi";
+"Abbreviation :" = "Viết tắt:";
+"Type :" = "Loại hình :";
+"Current Sub-League :" = "Giải đấu phụ hiện tại:";
+"Total Rounds :" = "Tổng số vòng:";
+"Current Round :" = "Vòng hiện tại:";
+"Current Season :" = "Phần hiện tại:";
+"Country :" = "Quốc gia :";
+"Full Name :" = "Họ và tên :";
+"Settings" = "Cài đặt";

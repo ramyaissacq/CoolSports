@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"CFBundleDisplayName" = "Cool Sports";
+
+"CFBundleName" = "Cool Sports";

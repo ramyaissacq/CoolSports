@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (5.6.2)
+  - ImageSlideshow/Core (1.9.2)
+  - ImageSlideshow/Kingfisher (1.9.2):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Kingfisher (7.3.2)
+  - lottie-ios (3.4.3)
+  - MOLH (1.4.3)
+  - ProgressHUD (13.6)
+  - ReachabilitySwift (5.0.0)
+  - SwiftEntryKit (2.0.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImageSlideshow/Kingfisher
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - lottie-ios
+  - MOLH
+  - ProgressHUD
+  - ReachabilitySwift
+  - SwiftEntryKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - lottie-ios
+    - MOLH
+    - ProgressHUD
+    - ReachabilitySwift
+    - SwiftEntryKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+  lottie-ios: 9ae750cdc7820fecbd3c2f0cfc493038208fcdc4
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftEntryKit: 61b5fa36f34a97dd8013e48a7345bc4c4720be9a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 68337e87393f2376332e3e62b1dd4ad8e03c7ef3
+
+COCOAPODS: 1.11.3

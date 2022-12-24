@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"Cool Sports" = "酷派体育";
+"Premier League" = "超级联赛";
+"La Liga" = "西甲";
+"Serie A" = "意甲";
+"Bundesliga" = "德甲";
+"Ligue 1" = "法甲";
+"Chinese Super League" = "中超";
+"AFC Champions League" = "亚冠";
+"Asian Qualifiers" = "亚洲预选赛";
+"South American Qualifier" = "南美预选赛";
+"European Qualifier" = "欧洲预选赛";
+"World Cup" = "世界杯";
+"European Cup" = "欧洲杯";
+"Confederations Cup" = "联合会杯";
+"America's Cup" = "美洲杯";
+"League Info" = "联赛信息";
+"Team Standings" = "球员排名";
+"Player Standings" = "球员排名";
+"Full Name" = "全名";
+"Team Name" = "团队名";
+"Player Name" = "球员排名";
+"Goals" = "球门";
+"Home" = "首页";
+"Away" = "离开";
+"Rules" = "规则";
+"Team Info" = "球队信息";
+"Top Scorers" = "最佳射手";
+"Most Value Player" = "最有价值球员";
+"Player Info" = "球员信息";
+"Founding Date:" = "成立时间。";
+"Area" = "地区";
+"Coach" = "教练";
+"Capacity" = "能力";
+"Website" = "网站";
+"Country" = "国家";
+"Birthday" = "生日";
+"Height" = "身高";
+"Weight" = "体重";
+"Position" = "岗位";
+"Number" = "数量";
+"Contract Ending" = "合同到期";
+"Language" = "语言";
+"Privacy Policy" = "隐私政策";
+"Share App" = "分享应用程序";
+"Feedback" = "反馈信息";
+"Rate Us" = "评价我们";
+"Abbreviation :" = "缩写 ：";
+"Type :" = "类型 ：";
+"Current Sub-League :" = "当前亚联赛：";
+"Total Rounds :" = "总回合数：";
+"Current Round :" = "当前回合：";
+"Current Season :" = "当前季节：";
+"Country :" = "国家 ：";
+"Full Name :" = "全名 ：";
+"Settings" = "设置";

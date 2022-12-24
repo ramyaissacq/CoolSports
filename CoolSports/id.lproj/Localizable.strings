@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"Cool Sports" = "Cool Sports";
+"Premier League" = "Liga Primer";
+"La Liga" = "La Liga";
+"Serie A" = "Serie A";
+"Bundesliga" = "Bundesliga";
+"Ligue 1" = "Liga 1";
+"Chinese Super League" = "Liga Super China";
+"AFC Champions League" = "Liga Champions AFC";
+"Asian Qualifiers" = "Kualifikasi Asia";
+"South American Qualifier" = "Kualifikasi Amerika Selatan";
+"European Qualifier" = "Kualifikasi Eropa";
+"World Cup" = "World Cup";
+"European Cup" = "Piala Eropa";
+"Confederations Cup" = "Piala Konfederasi";
+"America's Cup" = "Piala Amerika";
+"League Info" = "Info Liga";
+"Team Standings" = "Klasemen Tim";
+"Player Standings" = "Klasemen Pemain";
+"Full Name" = "Nama lengkap";
+"Team Name" = "Nama tim";
+"Player Name" = "Nama pemain";
+"Goals" = "Sasaran";
+"Home" = "Rumah";
+"Away" = "Jauh";
+"Rules" = "Aturan";
+"Team Info" = "Info Tim";
+"Top Scorers" = "Pencetak Gol Terbanyak";
+"Most Value Player" = "Pemain Paling Bernilai";
+"Player Info" = "Informasi Pemain";
+"Founding Date:" = "Tanggal Pendirian:";
+"Area" = "Daerah";
+"Coach" = "Pelatih";
+"Capacity" = "Kapasitas";
+"Website" = "Situs web";
+"Country" = "Negara";
+"Birthday" = "Hari ulang tahun";
+"Height" = "Tinggi";
+"Weight" = "Bobot";
+"Position" = "Posisi";
+"Number" = "Nomor";
+"Contract Ending" = "Akhir Kontrak";
+"Language" = "Bahasa";
+"Privacy Policy" = "Kebijakan pribadi";
+"Share App" = "Bagikan Aplikasi";
+"Feedback" = "Masukan";
+"Rate Us" = "Nilai Kami";
+"Abbreviation :" = "Singkatan:";
+"Type :" = "Jenis :";
+"Current Sub-League :" = "Sub-Liga saat ini:";
+"Total Rounds :" = "Jumlah Putaran:";
+"Current Round :" = "Putaran saat ini:";
+"Current Season :" = "Musim Saat Ini:";
+"Country :" = "Negara :";
+"Full Name :" = "Nama lengkap :";
+"Settings" = "Pengaturan";

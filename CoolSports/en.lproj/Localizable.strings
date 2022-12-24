@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  CoolSports
+
+  Created by Remya on 12/23/22.
+  
+*/
+
+"Cool Sports" = "Cool Sports";
+"Premier League" = "Premier League";
+"La Liga" = "La Liga";
+"Serie A" = "Serie A";
+"Bundesliga" = "Bundesliga";
+"Ligue 1" = "Ligue 1";
+"Chinese Super League" = "Chinese Super League";
+"AFC Champions League" = "AFC Champions League";
+"Asian Qualifiers" = "Asian Qualifiers";
+"South American Qualifier" = "South American Qualifier";
+"European Qualifier" = "European Qualifier";
+"World Cup" = "World Cup";
+"European Cup" = "European Cup";
+"Confederations Cup" = "Confederations Cup";
+"America's Cup" = "America's Cup";
+"League Info" = "League Info";
+"Team Standings" = "Team Standings";
+"Player Standings" = "Player Standings";
+"Full Name" = "Full Name";
+"Team Name" = "Team Name";
+"Player Name" = "Player Name";
+"Goals" = "Goals";
+"Home" = "Home";
+"Away" = "Away";
+"Rules" = "Rules";
+"Team Info" = "Team Info";
+"Top Scorers" = "Top Scorers";
+"Most Value Player" = "Most Value Player";
+"Player Info" = "Player Info";
+"Founding Date:" = "Founding Date:";
+"Area" = "Area";
+"Coach" = "Coach";
+"Capacity" = "Capacity";
+"Website" = "Website";
+"Country" = "Country";
+"Birthday" = "Birthday";
+"Height" = "Height";
+"Weight" = "Weight";
+"Position" = "Position";
+"Number" = "Number";
+"Contract Ending" = "Contract Ending";
+"Language" = "Language";
+"Privacy Policy" = "Privacy Policy";
+"Share App" = "Share App";
+"Feedback" = "Feedback";
+"Rate Us" = "Rate Us";
+"Abbreviation :" = "Abbreviation :";
+"Type :" = "Type :";
+"Current Sub-League :" = "Current Sub-League :";
+"Total Rounds :" = "Total Rounds :";
+"Current Round :" = "Current Round :";
+"Current Season :" = "Current Season :";
+"Country :" = "Country :";
+"Full Name :" = "Full Name :";
+"Settings" = "Settings";
