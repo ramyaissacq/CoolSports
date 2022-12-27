@@ -26,7 +26,7 @@ class LeagueDetailsViewModel{
        // Utility.showProgress()
         HomeAPI().getLeagueDetails(id: id, subID: subID, grpID: grpID) { json in
             let leagueJson = json?["leagueStanding"]
-            self.analyseResponseJson(json: leagueJson)
+            self.analyseResponseJson(json: leagueJson, leagueID: id)
             self.leaguDetails = LeagueResponse(json!)
             self.populateData()
             self.delegate?.didFinishFetch()
@@ -49,15 +49,24 @@ class LeagueDetailsViewModel{
     
    
     
-    func analyseResponseJson(json:JSON?){
-        if json?.arrayValue.first?["totalStandings"].isEmpty ?? true{
+    func analyseResponseJson(json:JSON?,leagueID:Int){
+        if !(json?.arrayValue.first?["totalStandings"].isEmpty ?? true){
+            normalStandings =  json?.arrayValue.map { TeamStandingsResponse($0) }.first
+            isNormalStanding = true
+            return
+            
+        }
+        
+        if json?.arrayValue.first?["list"].arrayValue.first?["subId"].intValue != 0{
+            let subID = json?.arrayValue.first?["list"].arrayValue.first?["subId"].intValue ?? 0
+            getLeagueDetails(id:leagueID,subID:subID,grpID:0)
+            return
+        }
+        else{
             print("Empty json")
             leaguStanding = json?.arrayValue.map { LeagueStanding($0) }.first
             isNormalStanding = false
-        }
-        else{
-        normalStandings =  json?.arrayValue.map { TeamStandingsResponse($0) }.first
-            isNormalStanding = true
+            
         }
     }
     

@@ -501,6 +501,10 @@
             <point key="canvasLocation" x="2467" y="739"/>
         </scene>
     </scenes>
+    <designables>
+        <designable name="BgE-WU-DpX"/>
+        <designable name="hWe-6D-mjv"/>
+    </designables>
     <resources>
         <image name="launch" width="750" height="1624"/>
         <namedColor name="backColor">
