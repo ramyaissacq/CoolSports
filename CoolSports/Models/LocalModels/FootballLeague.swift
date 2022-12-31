@@ -18,8 +18,10 @@ class FootballLeague{
 
         static func populateFootballLeagues(){
             //if leagues?.count ?? 0 == 0{
-            let ids = [36,31,34,8,11,60,192,648,652,650,75,67,88,224]
-                let names = ["Premier League".localized, "La Liga".localized, "Serie A".localized,"Bundesliga".localized, "Ligue 1".localized, "Chinese Super League".localized, "AFC Champions League".localized, "Asian Qualifiers".localized, "South American Qualifier".localized, "European Qualifier".localized, "World Cup".localized, "European Cup".localized, "Confederations Cup".localized, "America's Cup".localized]
+            //75,
+            //"World Cup".localized,
+            let ids = [36,31,34,8,11,60,192,648,652,650,67,88,224]
+                let names = ["Premier League".localized, "La Liga".localized, "Serie A".localized,"Bundesliga".localized, "Ligue 1".localized, "Chinese Super League".localized, "AFC Champions League".localized, "Asian Qualifiers".localized, "South American Qualifier".localized, "European Qualifier".localized,  "European Cup".localized, "Confederations Cup".localized, "America's Cup".localized]
             var leagues = [FootballLeague]()
             for i in 0 ... ids.count - 1{
                 let obj = FootballLeague(id: ids[i], name: names[i])
